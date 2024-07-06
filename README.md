@@ -31,7 +31,7 @@ This project implements a Healthcare Management System using Python and PyQt5 fo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/healthcare-management-system.git
+   git clone https://github.com/joha546/healthcare-management-system.git
    cd healthcare-management-system
    ```
 
